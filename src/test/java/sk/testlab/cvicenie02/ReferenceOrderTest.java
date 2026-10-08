@@ -60,7 +60,7 @@ class ReferenceOrderTest {
     }
 
     @Test
-    @DisplayName("KB-001 × 2 + MS-001 × 1, STUDENT10, kuriér → 85,63 € a created")
+    @DisplayName("KB-001 × 2 + MS-001 × 1, STUDENT10, kuriér - 85,63 € a created")
     void referenceOrder() {
         try {
             // ARRANGE: samostatný účet od vyučujúceho + nový profil prehliadača.
